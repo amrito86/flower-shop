@@ -192,6 +192,37 @@ margin-top: -5px;
     border: 0px;
     margin-left: 5px;
 }
+.colour-black{
+    background-color: #111010;
+    height: 400px;
+    margin-top: 80px;
+    
+}
+.flower{
+    color: #E55473;
+
+}
+.shop{
+    color: #FFFFFF;
+}
+.flower-shop{
+    text-align: center;
+    padding-top: 75px;
+    font-size: 25px;
+}
+.footer-paragraph{
+    color: #FFFFFF;
+    font-size: 18px;
+    max-width: 32%;
+    margin-left: 600px;
+    text-align: center;
+}
+.footer-pera{
+    color: #969696;
+    text-align: center;
+    padding-left: 22px;
+    padding-top: 20px;
+}
 
 
 
